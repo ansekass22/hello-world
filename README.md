@@ -8,10 +8,12 @@ The languages I know well:
 - SQL
 - C#
 - MatLab
+
 The languages I know somehow:
 - C++
 - JavaScript
 - Assembly
+
 The languages I want to learn:
 - R
 - Go
