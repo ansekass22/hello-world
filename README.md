@@ -1,6 +1,6 @@
 A little bit about me.
 
-I am a coder but primarily mathematician and physicist. So I am interested especially in code about those things. The languages I know well:
+I am a coder but primarily mathematician and physicist. So I am interested especially in coding about those things. The languages I know well:
 
 - Python
 - Java
